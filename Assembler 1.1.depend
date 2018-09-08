@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1509544536 source:c:\users\user\downloads\projects\assembler 1.1\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<fstream>
+	<vector>
+	<map>
+	<cmath>
+	<string.h>
+	<stdio.h>
+	<sstream>
+	<algorithm>
+
